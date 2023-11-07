@@ -1,0 +1,35 @@
+src/workshop02/DiningExperience.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/workshop02/DiningExperience.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/workshop02/DiningExperience.java:7:	CognitiveComplexity:	CognitiveComplexity: The method 'main(String[])' has a cognitive complexity of 28, current threshold is 15
+src/workshop02/DiningExperience.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/workshop02/DiningExperience.java:7:	CyclomaticComplexity:	CyclomaticComplexity: The method 'main(String[])' has a cyclomatic complexity of 14.
+src/workshop02/DiningExperience.java:7:	NPathComplexity:	NPathComplexity: The method 'main(String[])' has an NPath complexity of 438, current threshold is 200
+src/workshop02/DiningExperience.java:8:	CloseResource:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/workshop02/DiningExperience.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'scanner' could be declared final
+src/workshop02/DiningExperience.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'baseCost' could be declared final
+src/workshop02/DiningExperience.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'validOrder' could be declared final
+src/workshop02/DiningExperience.java:13:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'menu' could be declared final
+src/workshop02/DiningExperience.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prices' could be declared final
+src/workshop02/DiningExperience.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'quantities' could be declared final
+src/workshop02/DiningExperience.java:23:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:27:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:36:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:37:	WhileLoopWithLiteralBoolean:	WhileLoopWithLiteralBoolean: The loop can be simplified.
+src/workshop02/DiningExperience.java:44:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/workshop02/DiningExperience.java:47:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/workshop02/DiningExperience.java:52:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/workshop02/DiningExperience.java:54:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/workshop02/DiningExperience.java:59:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:62:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:65:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:67:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:68:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'confirmation' could be declared final
+src/workshop02/DiningExperience.java:70:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/workshop02/DiningExperience.java:71:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:73:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:74:	UnusedAssignment:	UnusedAssignment: The value assigned to variable 'totalCost' is never used
+src/workshop02/DiningExperience.java:77:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/workshop02/DiningExperience.java:84:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantities' is not assigned and could be declared final
+src/workshop02/DiningExperience.java:84:	UseVarargs:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/workshop02/DiningExperience.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'quantity' could be declared final
